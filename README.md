@@ -24,3 +24,5 @@
 HTML|HyperText Markup Language|
 CSS|Cascading Style Sheet|
 #### - 20223096 김일승
+
+pull 용 README파일 변경
